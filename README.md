@@ -1,4 +1,12 @@
-Sorting Algortihms
+# Sorting Algortihms
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Radix Sort
 
 | Besar Array | Bubble Sort | Selection Sort | Insertion Sort | Merge Sort | Quick Sort | Heap Sort | Radix Sort |
 |---|---|---|---|---|---|---|---|
